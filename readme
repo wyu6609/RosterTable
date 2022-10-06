@@ -1,0 +1,5 @@
+Roster table
+-create an ArrayList of ArrayLists
+- put names for a day into an arrayList
+- put a number of arrayLists for the days into an arrayList
+- get the days of duty for a person
